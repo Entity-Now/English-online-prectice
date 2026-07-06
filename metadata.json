@@ -1,0 +1,8 @@
+{
+  "name": "韩立的英语修仙笔记",
+  "description": "一份由凡人修仙传韩立作为讲解老师，从基础词法到复杂句法系统化重排的英语学习笔记，包含思维导图、互动练习、词汇解析及实战语境建议。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
